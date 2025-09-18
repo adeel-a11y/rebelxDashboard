@@ -1,0 +1,5 @@
+email,name,password,role,department,phone,hourlyRate,status
+john.doe@example.com,John Doe,SecurePassword123!,employee,Sales,+1234567890,50,active
+jane.smith@example.com,Jane Smith,AnotherSecure456!,manager,Marketing,+0987654321,75,active
+bob.wilson@example.com,Bob Wilson,Password789!,admin,IT,+1122334455,100,active
+alice.johnson@example.com,Alice Johnson,Secure321!,employee,HR,+5544332211,45,active

@@ -1,0 +1,5 @@
+name,email,phone,contactStatus,contactType,companyType,industry,address,city,state,postalCode,website,facebookPage,ownedBy,forecastedAmount,projectedCloseDate,fullName,description
+Acme Corporation,contact@acme.com,+1234567890,New,Email,Corporation,Technology,123 Main St,San Francisco,CA,94105,https://acme.com,https://facebook.com/acme,sales@yourcompany.com,50000,2024-12-31,John Smith,Large technology company interested in our services
+Beta Industries,info@beta.com,+0987654321,Qualified,Phone,LLC,Manufacturing,456 Industrial Ave,Detroit,MI,48201,https://beta-industries.com,,manager@yourcompany.com,75000,2024-11-15,Sarah Johnson,Manufacturing company looking for automation solutions
+Gamma Solutions,hello@gamma.io,+1112223333,Contacted,Email,Startup,Software,789 Tech Blvd,Austin,TX,78701,https://gamma.io,https://facebook.com/gammasolutions,sales@yourcompany.com,30000,2024-10-30,Mike Chen,Startup seeking development partnership
+Delta Corp,contact@delta.net,+4445556666,Customer,Phone,Corporation,Finance,321 Wall St,New York,NY,10005,https://deltacorp.com,,admin@yourcompany.com,100000,2024-09-15,Lisa Anderson,Existing customer - renewal opportunity
